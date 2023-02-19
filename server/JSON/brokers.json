@@ -1,0 +1,23 @@
+[
+  {
+    "broker_id": 0,
+    "name": "Anatoliy Green",
+    "money": 1000,
+    "take_part": false,
+    "stocks" : []
+  },
+  {
+    "broker_id": 1,
+    "name": "Artem Reshotkin",
+    "money": 2000,
+    "take_part": false,
+    "stocks" : []
+  },
+  {
+    "broker_id": 2,
+    "name": "Alexander Kozikov",
+    "money": 500,
+    "take_part": false,
+    "stocks" : []
+  }
+]

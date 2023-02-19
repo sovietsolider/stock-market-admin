@@ -1,0 +1,29 @@
+.table-wrapper {
+    max-height: 400px;
+    overflow: auto;
+    display:inline-block;
+}
+.checkbox:checked:before{
+    background-color:green;
+}
+
+input[type="checkbox"]:checked {
+    border-color: white;
+}
+
+input[type="checkbox"]:focus {
+    border-color: white;
+}
+
+input[type="checkbox"] {
+    border-color: white;
+}
+
+ul {
+    margin: 0;
+    listStyleType: 'none';
+}
+
+.info-text {
+    cursor: pointer;
+}
